@@ -1,0 +1,35 @@
+h2{
+	background-color: blue;
+	color: white;
+	display:block;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	background-color: lightgreen;
+	font-style: bold;
+}
+h1:hover{
+	background-color:yellow;
+}
+body{
+	background-color: lightyellow;
+}
+section{
+	text-align: center;
+}
+footer{
+	text-align: center;
+	margin: 0% 10%;
+	background-color: khaki;
+}
+p{
+	font-style: bold;
+}
+a{
+	color: green;
+	border: double thin #aabbcc;
+}
+a:hover{
+	color: blue;
+}
